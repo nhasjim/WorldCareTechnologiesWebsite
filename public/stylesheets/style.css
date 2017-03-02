@@ -240,9 +240,14 @@ ul li a:hover {
 /* Home
 --------------------------------------*/
 #home {
-  height: 500px;
+  height: 1000px;
   color: #fff;
   background-color: #1e88e5;
+}
+#about {
+  height: 1000px;
+  color: #fff;
+  background-color: #1e88ec;
 }
 /* Footer
 -----------------------------------------------------------------------------*/
