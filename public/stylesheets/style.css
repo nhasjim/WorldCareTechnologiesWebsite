@@ -236,6 +236,13 @@ ul li a {
 ul li a:hover {
   background-color: #0b8702;
 }
+/* Home
+--------------------------------------*/
+#home {
+  height: 500px;
+  color: #fff;
+  background-color: #1e88e5;
+}
 /* Footer
 -----------------------------------------------------------------------------*/
 footer {
