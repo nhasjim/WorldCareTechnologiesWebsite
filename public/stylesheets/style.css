@@ -243,11 +243,13 @@ ul li a:hover {
   background-color: #fff;
 }
 #about {
+  padding-top: 50px;
   height: 1000px;
   color: #000;
-  background-color: #ededed;
+  background-color: #f0f0f0;
 }
 #contact {
+  padding-top: 50px;
   height: 1000px;
   color: #000;
   background-color: #fff;
