@@ -255,8 +255,15 @@ ul li a:hover {
   background-color: #fff;
 }
 #headshots {
-  width: 60%;
+  width: 100%;
   margin: 0 auto;
+}
+.headshot {
+  float: left;
+  margin-bottom: 10px;
+}
+.headshotName {
+  font-size: 12px;
 }
 /* Footer
 -----------------------------------------------------------------------------*/
